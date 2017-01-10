@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-enpit-jet",
+  "version": "1.0.0",
+  "description": "The ESLint config we use at enpit for our Oracle JET projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/enpit/eslint-config-enpit-jet"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslintconfig",
+    "oracle",
+    "jet",
+    "oracle-jet",
+    "linter"
+  ],
+  "author": "Janis Krasemann <janis.krasemann@enpit.de> (http://www.github.com/janis-kra)",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=2.10.2"
+  },
+  "dependencies": {
+    "eslint-config-google": "^0.5.0"
+  }
+}
